@@ -3,6 +3,8 @@ Post: https://geekness.eu/python-tinytuya-temperature-monitor
 
 Simple Flask app to connect to your Tuya Temperature monitor
 
+![screenshot](https://github.com/snacsnoc/py-tuya-temp/blob/main/static/img/screenshot.png?raw=true)
+
 Requirements:
 ```bash
 pip install tinytuya flask
